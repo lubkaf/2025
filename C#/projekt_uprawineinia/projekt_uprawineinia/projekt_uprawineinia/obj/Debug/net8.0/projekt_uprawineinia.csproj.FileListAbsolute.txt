@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\bin\Debug\net8.0\projekt_uprawineinia.exe
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\bin\Debug\net8.0\projekt_uprawineinia.deps.json
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\bin\Debug\net8.0\projekt_uprawineinia.runtimeconfig.json
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\bin\Debug\net8.0\projekt_uprawineinia.dll
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\bin\Debug\net8.0\projekt_uprawineinia.pdb
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.AssemblyInfo.cs
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.dll
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\refint\projekt_uprawineinia.dll
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.pdb
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\projekt_uprawineinia.genruntimeconfig.cache
+C:\Users\student\Desktop\projekt_uprawineinia\projekt_uprawineinia\obj\Debug\net8.0\ref\projekt_uprawineinia.dll
