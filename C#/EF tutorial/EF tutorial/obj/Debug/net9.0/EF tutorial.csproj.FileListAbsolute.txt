@@ -1,0 +1,5 @@
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net9.0\EF tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net9.0\EF tutorial.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net9.0\EF tutorial.AssemblyInfo.cs
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net9.0\EF tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net9.0\EF tutorial.csproj.AssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\EF tutorial.exe
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\EF tutorial.deps.json
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\EF tutorial.runtimeconfig.json
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\EF tutorial.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\EF tutorial.pdb
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.AssemblyInfo.cs
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutor.4C6DCC61.Up2Date
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\refint\EF tutorial.dll
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.pdb
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\EF tutorial.genruntimeconfig.cache
+C:\Users\Filip\source\repos\EF tutorial\EF tutorial\obj\Debug\net8.0\ref\EF tutorial.dll
